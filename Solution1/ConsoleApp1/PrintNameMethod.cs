@@ -17,7 +17,7 @@ namespace PrintName
             }
             else
             {
-                Console.WriteLine($"Hello {name}");
+                Console.WriteLine($"Hello, {name}!");
             }
         }
     }
