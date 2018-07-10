@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintName", "ConsoleApp1\PrintName.csproj", "{C96CA93F-9A22-4821-8AB8-58C918F4D388}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintName", "ConsoleApp1\PrintName.csproj", "{C96CA93F-9A22-4821-8AB8-58C918F4D388}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMax", "GetMax\GetMax.csproj", "{CE27E80E-0037-4D31-9D30-4576F92E6CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetMax", "GetMax\GetMax.csproj", "{CE27E80E-0037-4D31-9D30-4576F92E6CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastDigitToEnglish", "LastDigitToEnglish\LastDigitToEnglish.csproj", "{2A99045A-432A-4D12-ACF7-8DE9D2411540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LastDigitToEnglish", "LastDigitToEnglish\LastDigitToEnglish.csproj", "{2A99045A-432A-4D12-ACF7-8DE9D2411540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfOccurence", "NumberOfOccurence\NumberOfOccurence.csproj", "{013F7451-435C-4999-8837-37ECB0E8CB41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfOccurence", "NumberOfOccurence\NumberOfOccurence.csproj", "{013F7451-435C-4999-8837-37ECB0E8CB41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargerThanNeighbour", "LargerThanNeighbour\LargerThanNeighbour.csproj", "{321661C5-9AFB-4BB6-92D7-607CBACEC9C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargerThanNeighbour", "LargerThanNeighbour\LargerThanNeighbour.csproj", "{321661C5-9AFB-4BB6-92D7-607CBACEC9C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLargerThanNeighbour", "FirstLargerThanNeighbour\FirstLargerThanNeighbour.csproj", "{F1D1D1A2-28AF-418C-B911-D9944238076D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstLargerThanNeighbour", "FirstLargerThanNeighbour\FirstLargerThanNeighbour.csproj", "{F1D1D1A2-28AF-418C-B911-D9944238076D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appearance-count-dictionary-solution", "appearance-count-dictionary-solution\appearance-count-dictionary-solution.csproj", "{452A6401-CE68-4654-9CBB-BB92CE9D31C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "appearance-count-dictionary-solution", "appearance-count-dictionary-solution\appearance-count-dictionary-solution.csproj", "{452A6401-CE68-4654-9CBB-BB92CE9D31C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitty", "Kitty\Kitty.csproj", "{97836262-8457-442C-9A88-39BE3A01F5F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{452A6401-CE68-4654-9CBB-BB92CE9D31C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{452A6401-CE68-4654-9CBB-BB92CE9D31C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{452A6401-CE68-4654-9CBB-BB92CE9D31C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97836262-8457-442C-9A88-39BE3A01F5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97836262-8457-442C-9A88-39BE3A01F5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97836262-8457-442C-9A88-39BE3A01F5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97836262-8457-442C-9A88-39BE3A01F5F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
